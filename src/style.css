@@ -1,8 +1,8 @@
 body {
     background-size: cover;
     background-repeat: no-repeat;
-    /* background-image: url('../public/images/netflix-banner.jpg'); */
-    background-color: blue;
+    background-image: url('../public/images/netflix-banner.jpg');
+    /* background-color: blue; */
   }
   .shade {
     background-color: rgba(0, 0, 0, 0.3);
